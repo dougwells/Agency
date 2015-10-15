@@ -8951,3 +8951,21 @@ a:focus {
     padding: 100px 0;
   }
 }
+#clients {
+  text-align: center;
+  padding-bottom: 80px;
+}
+#clients img {
+  margin-right: 30px;
+}
+#contact {
+  background: #333333;
+  color: #f4f4f4;
+  padding-bottom: 80px;
+}
+footer {
+  margin-top: 10px;
+  padding-top: 30px;
+  height: 80px;
+  text-align: center;
+}
